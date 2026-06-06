@@ -1,6 +1,8 @@
 [submodule "finance-assistant-api"]
 	path = finance-assistant-api
 	url = git@github.com:miwtoo/finance-assistant-api.git
+	branch = main
 [submodule "finance-assistant-web"]
 	path = finance-assistant-web
 	url = git@github.com:miwtoo/finance-assistant-web.git
+	branch = main
